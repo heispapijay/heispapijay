@@ -9,10 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/jayartng" target="blank"><img src="https://img.shields.io/twitter/follow/jayartng?logo=twitter&style=for-the-badge" alt="jayartng" /></a> </p>
 
-- 🔭 I’m currently working on **Organizer App**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Web developed**
 
 - 📫 How to reach me **jayatwork03@gmail.com**
